@@ -28,3 +28,4 @@ print("Nova demanda")
 #exemplo : git checkout .\EstudoGit.py
 
 #git log é como se fosse um historico de commit. Ele mostra todos os commits realizado e quando
+print ("teste")
