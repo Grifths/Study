@@ -26,3 +26,5 @@ print("Nova demanda")
 
 #git checkout ".\nomedoarquivo.formato dele" esse comando vai fazer a ultima alteração feita ser excluida
 #exemplo : git checkout .\EstudoGit.py
+
+#git log é como se fosse um historico de commit. Ele mostra todos os commits realizado e quando
