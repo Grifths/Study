@@ -7,12 +7,11 @@ print("Aprendendo git! Usando o git checkout -b para criar um novo branch ")
 #git commit para comitar nosso código! E utiliza o -a(Adicionar todo tipo de arquivo ao commit) -m(Ele vc adiciona uma mensagem para alguém tenha um norte ao ver seu commit)
 #Exemplo de como fica: git commit -a -m "Criando print olá mundo"
 
-<<<<<<< HEAD
 # digitando git branch conseguimos observar a lista de brach! Para poder acessalos e o que está em verde é oq eu estou
 
 #git merge test. o merge é oq uni os códigos, como estou no main ele vai unir o "teste" e jogar para o main
 #Só digitar git merge "nome do brench que deseja juntar"
-=======
+
 # Dando o Git status novamente vc ve pela mensagem: "nothing to commit, working tree clean" que não tem nada para ser comitado
 #Então é um bom ponto de finalização de tarefa pois as pendendencias com o git foi resolvida
 
@@ -28,4 +27,4 @@ print("Aprendendo git! Usando o git checkout -b para criar um novo branch ")
 #git push --set-upstream origin teste ! Ele vai mandar para meu reposotorio só que um novo branch lá
 
 print("Nova demanda")
->>>>>>> teste
+
