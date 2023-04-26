@@ -23,8 +23,13 @@ print("Aprendendo git! Usando o git checkout -b para criar um novo branch ")
 
 #O ideal é cada desenvolver ter seu branch e depois unilos de forma coordernada! Pois são muitas pessoas trabalhando
 #git chekout -b ! Aqui está criando um brench novo para fazer "MINHA PARTE"
+# -b simboliza a criação de um novo branch
 
 #git push --set-upstream origin teste ! Ele vai mandar para meu reposotorio só que um novo branch lá
 
 print("Nova demanda")
 
+#git pull é para puxar os projetos que estão no git hub para o nosso pc
+
+#Para clonar projeto. Usado quando necessitamos pegar um projeto que já está sendo usado e precisamos dele
+#para  clonar o projeto utiliza "git clone "url do projeto 'nome da pasta' " Mas o direcionamento continua igual
