@@ -33,3 +33,5 @@ print("Nova demanda")
 
 #Para clonar projeto. Usado quando necessitamos pegar um projeto que já está sendo usado e precisamos dele
 #para  clonar o projeto utiliza "git clone "url do projeto 'nome da pasta' " Mas o direcionamento continua igual
+
+print("Testando arquivo clonadadoooo ")
