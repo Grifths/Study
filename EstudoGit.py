@@ -18,3 +18,7 @@ print("Aprendendo git! Usando o git checkout -b para criar um novo branch ")
 
 #O ideal é cada desenvolver ter seu branch e depois unilos de forma coordernada! Pois são muitas pessoas trabalhando
 #git chekout -b ! Aqui está criando um brench novo para fazer "MINHA PARTE"
+
+#git push --set-upstream origin teste ! Ele vai mandar para meu reposotorio só que um novo branch lá
+
+print("Nova demanda")
