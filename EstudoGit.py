@@ -23,3 +23,6 @@ print("Aprendendo git! Usando o git checkout -b para criar um novo branch ")
 
 #git clean -f é para remover arquivo que não quero
 print("Nova demanda")
+
+#git checkout ".\nomedoarquivo.formato dele" esse comando vai fazer a ultima alteração feita ser excluida
+#exemplo : git checkout .\EstudoGit.py
