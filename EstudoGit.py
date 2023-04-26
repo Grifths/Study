@@ -21,4 +21,5 @@ print("Aprendendo git! Usando o git checkout -b para criar um novo branch ")
 
 #git push --set-upstream origin teste ! Ele vai mandar para meu reposotorio só que um novo branch lá
 
+#git clean -f é para remover arquivo que não quero
 print("Nova demanda")
