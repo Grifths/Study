@@ -35,3 +35,4 @@ print("Nova demanda")
 #para  clonar o projeto utiliza "git clone "url do projeto 'nome da pasta' " Mas o direcionamento continua igual
 
 print("Testando arquivo clonadadoooo ")
+#Como clonei ele já vem pareado
